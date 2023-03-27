@@ -1,0 +1,2 @@
+#!/bin/bash
+printf '%s\n' ./* */ | LC_COLLATE=C sort -df | sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/, /g' -e 's/, $/\n/'
