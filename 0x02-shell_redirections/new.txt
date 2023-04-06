@@ -1,0 +1,65 @@
+total 120
+drwxr-xr-x 2 timirichy timirichy 4096 Apr  6 15:04 .
+drwxr-xr-x 7 timirichy timirichy 4096 Apr  6 14:59 ..
+-rwxr--r-- 1 timirichy timirichy   32 Apr  1 22:39 0-hello_world
+-rwxr--r-- 1 timirichy timirichy   28 Apr  2 21:20 1-confused_smiley
+-rwxr--r-- 1 timirichy timirichy   49 Apr  2 22:25 10-no_more_js
+-rwxr--r-- 1 timirichy timirichy   56 Apr  2 22:35 100-empty_casks
+-rwxr--r-- 1 timirichy timirichy  107 Apr  2 22:41 101-gifs
+-rwxr--r-- 1 timirichy timirichy   38 Apr  2 22:36 102-acrostic
+-rwxr--r-- 1 timirichy timirichy  115 Apr  2 22:39 103-the_biggest_fan
+-rwxr--r-- 1 timirichy timirichy   50 Apr  2 22:26 11-directories
+-rwxr--r-- 1 timirichy timirichy   25 Apr  2 22:28 12-newest_files
+-rwxr--r-- 1 timirichy timirichy   27 Apr  2 22:29 13-unique
+-rwxr--r-- 1 timirichy timirichy   36 Apr  2 22:29 14-findthatword
+-rwxr--r-- 1 timirichy timirichy   41 Apr  2 22:30 15-countthatword
+-rwxr--r-- 1 timirichy timirichy   39 Apr  2 22:30 16-whatsnext
+-rwxr--r-- 1 timirichy timirichy   38 Apr  2 22:30 17-hidethisword
+-rwxr--r-- 1 timirichy timirichy   50 Apr  2 22:31 18-letteronly
+-rwxr--r-- 1 timirichy timirichy   25 Apr  2 22:31 19-AZ
+-rwxr--r-- 1 timirichy timirichy   28 Apr  2 21:27 2-hellofile
+-rwxr--r-- 1 timirichy timirichy   23 Apr  2 22:31 20-hiago
+-rwxr--r-- 1 timirichy timirichy   16 Apr  2 22:32 21-reverse
+-rwxr--r-- 1 timirichy timirichy   49 Apr  2 22:32 22-users_and_homes
+-rwxr--r-- 1 timirichy timirichy   39 Apr  2 21:31 3-twofiles
+-rwxr--r-- 1 timirichy timirichy   35 Apr  2 21:34 4-lastlines
+-rwxr--r-- 1 timirichy timirichy   35 Apr  2 21:39 5-firstlines
+-rwxr--r-- 1 timirichy timirichy   36 Apr  2 21:46 6-third_line
+-rwxr--r-- 1 timirichy timirichy   99 Apr  2 22:08 7-file
+-rwxr--r-- 1 timirichy timirichy   36 Apr  2 22:21 8-cwd_state
+-rwxr--r-- 1 timirichy timirichy   35 Apr  2 22:23 9-duplicate_last_line
+-rw-r--r-- 1 timirichy timirichy   11 Apr  1 22:18 README.md
+-rw-r--r-- 1 timirichy timirichy    0 Apr  6 15:04 append.txt
+-rw-r--r-- 1 timirichy timirichy    0 Apr  6 15:06 new.txt
+-rw-r--r-- 1 timirichy timirichy    0 Apr  6 15:04 trunc.txt
+0-hello_world
+1-confused_smiley
+10-no_more_js
+100-empty_casks
+101-gifs
+102-acrostic
+103-the_biggest_fan
+11-directories
+12-newest_files
+13-unique
+14-findthatword
+15-countthatword
+16-whatsnext
+17-hidethisword
+18-letteronly
+19-AZ
+2-hellofile
+20-hiago
+21-reverse
+22-users_and_homes
+3-twofiles
+4-lastlines
+5-firstlines
+6-third_line
+7-file
+8-cwd_state
+9-duplicate_last_line
+README.md
+append.txt
+new.txt
+trunc.txt
