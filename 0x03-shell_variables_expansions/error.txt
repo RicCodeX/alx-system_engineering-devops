@@ -1,0 +1,1 @@
+ls: cannot access 'sdda/sdf/sd': No such file or directory
